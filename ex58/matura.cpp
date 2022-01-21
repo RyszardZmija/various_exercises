@@ -25,7 +25,7 @@ std::string dec_to_bin(long long val) {
 
 int convert_to_base(const std::string &num, int base) {
 	if (!num.empty() && num.front() == '-') {
-		return -(std::stoi(num.substr(1, num.size() - 1)));
+		return -(std::stoi(num.substr(1, num.size() - 1)), nullptr, base);
 	}
 	else {
 		return std::stoi(num, nullptr, base);

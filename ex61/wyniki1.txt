@@ -1,0 +1,136 @@
+61.1
+liczba ciagow arytmetycznych: 44
+najwieksza roznica: 246849
+
+
+
+
+61.2
+Ciag 1: 1
+Ciag 2: 27
+Ciag 3: nie zostal znaleziony
+Ciag 4: nie zostal znaleziony
+Ciag 5: nie zostal znaleziony
+Ciag 6: nie zostal znaleziony
+Ciag 7: nie zostal znaleziony
+Ciag 8: nie zostal znaleziony
+Ciag 9: nie zostal znaleziony
+Ciag 10: nie zostal znaleziony
+Ciag 11: nie zostal znaleziony
+Ciag 12: nie zostal znaleziony
+Ciag 13: 551368
+Ciag 14: nie zostal znaleziony
+Ciag 15: nie zostal znaleziony
+Ciag 16: nie zostal znaleziony
+Ciag 17: nie zostal znaleziony
+Ciag 18: nie zostal znaleziony
+Ciag 19: nie zostal znaleziony
+Ciag 20: nie zostal znaleziony
+Ciag 21: nie zostal znaleziony
+Ciag 22: nie zostal znaleziony
+Ciag 23: 1000000
+Ciag 24: nie zostal znaleziony
+Ciag 25: nie zostal znaleziony
+Ciag 26: nie zostal znaleziony
+Ciag 27: nie zostal znaleziony
+Ciag 28: nie zostal znaleziony
+Ciag 29: nie zostal znaleziony
+Ciag 30: nie zostal znaleziony
+Ciag 31: nie zostal znaleziony
+Ciag 32: nie zostal znaleziony
+Ciag 33: nie zostal znaleziony
+Ciag 34: nie zostal znaleziony
+Ciag 35: nie zostal znaleziony
+Ciag 36: nie zostal znaleziony
+Ciag 37: nie zostal znaleziony
+Ciag 38: nie zostal znaleziony
+Ciag 39: nie zostal znaleziony
+Ciag 40: nie zostal znaleziony
+Ciag 41: nie zostal znaleziony
+Ciag 42: nie zostal znaleziony
+Ciag 43: nie zostal znaleziony
+Ciag 44: nie zostal znaleziony
+Ciag 45: nie zostal znaleziony
+Ciag 46: nie zostal znaleziony
+Ciag 47: nie zostal znaleziony
+Ciag 48: nie zostal znaleziony
+Ciag 49: nie zostal znaleziony
+Ciag 50: nie zostal znaleziony
+Ciag 51: nie zostal znaleziony
+Ciag 52: nie zostal znaleziony
+Ciag 53: nie zostal znaleziony
+Ciag 54: nie zostal znaleziony
+Ciag 55: nie zostal znaleziony
+Ciag 56: 250047
+Ciag 57: nie zostal znaleziony
+Ciag 58: 1000
+Ciag 59: nie zostal znaleziony
+Ciag 60: nie zostal znaleziony
+Ciag 61: 35937
+Ciag 62: nie zostal znaleziony
+Ciag 63: nie zostal znaleziony
+Ciag 64: nie zostal znaleziony
+Ciag 65: nie zostal znaleziony
+Ciag 66: nie zostal znaleziony
+Ciag 67: nie zostal znaleziony
+Ciag 68: nie zostal znaleziony
+Ciag 69: nie zostal znaleziony
+Ciag 70: nie zostal znaleziony
+Ciag 71: nie zostal znaleziony
+Ciag 72: nie zostal znaleziony
+Ciag 73: nie zostal znaleziony
+Ciag 74: nie zostal znaleziony
+Ciag 75: nie zostal znaleziony
+Ciag 76: nie zostal znaleziony
+Ciag 77: 531441
+Ciag 78: nie zostal znaleziony
+Ciag 79: nie zostal znaleziony
+Ciag 80: nie zostal znaleziony
+Ciag 81: nie zostal znaleziony
+Ciag 82: nie zostal znaleziony
+Ciag 83: nie zostal znaleziony
+Ciag 84: nie zostal znaleziony
+Ciag 85: nie zostal znaleziony
+Ciag 86: nie zostal znaleziony
+Ciag 87: nie zostal znaleziony
+Ciag 88: nie zostal znaleziony
+Ciag 89: nie zostal znaleziony
+Ciag 90: nie zostal znaleziony
+Ciag 91: nie zostal znaleziony
+Ciag 92: nie zostal znaleziony
+Ciag 93: nie zostal znaleziony
+Ciag 94: nie zostal znaleziony
+Ciag 95: nie zostal znaleziony
+Ciag 96: nie zostal znaleziony
+Ciag 97: nie zostal znaleziony
+Ciag 98: nie zostal znaleziony
+Ciag 99: nie zostal znaleziony
+Ciag 100: nie zostal znaleziony
+Ciag 101: nie zostal znaleziony
+
+
+61.3
+
+ciag 1: 6
+ciag 2: 36
+ciag 3: 421503
+ciag 4: 362326
+ciag 5: 303276
+ciag 6: 534127
+ciag 7: 40828
+ciag 8: 949
+ciag 9: 90367
+ciag 10: 177326
+ciag 11: 390126
+ciag 12: 842436
+ciag 13: 37889
+ciag 14: 11106
+ciag 15: 149243
+ciag 16: 80882
+ciag 17: 529815
+ciag 18: 988401
+ciag 19: 29559
+ciag 20: 953023
+ciag 21: 953023
+
+

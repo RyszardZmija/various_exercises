@@ -1,0 +1,20 @@
+59.1
+114
+
+59.2
+181
+
+59.3
+max z moca 1: 999342708
+min z moca 1: 11
+
+liczba liczb z moca 1: 381
+liczba liczb z moca 2: 344
+liczba liczb z moca 3: 171
+liczba liczb z moca 4: 76
+liczba liczb z moca 5: 22
+liczba liczb z moca 6: 4
+liczba liczb z moca 7: 0
+liczba liczb z moca 8: 2
+
+

@@ -1,0 +1,26 @@
+67.1
+fib(10) = 55
+fib(20) = 6765
+fib(30) = 832040
+fib(40) = 102334155
+
+
+67.2
+fib(3) = 2 jest liczba pierwsza
+fib(4) = 3 jest liczba pierwsza
+fib(5) = 5 jest liczba pierwsza
+fib(7) = 13 jest liczba pierwsza
+fib(11) = 89 jest liczba pierwsza
+fib(13) = 233 jest liczba pierwsza
+fib(17) = 1597 jest liczba pierwsza
+fib(23) = 28657 jest liczba pierwsza
+fib(29) = 514229 jest liczba pierwsza
+
+
+67.4
+fib(14) = 101111001
+fib(21) = 10101011000010
+fib(24) = 1011010100100000
+fib(25) = 10010010100010001
+
+

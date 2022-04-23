@@ -1,0 +1,17 @@
+69.1
+liczba gatunkow: 207
+najwieksza liczba osobnikow reprezentujacych ten sam gatunek: 20
+
+
+69.2
+liczba osobnikow z mutacja: 8
+
+69.3
+najwieksza liczba genow u jednego osobnika: 11
+najwieksza dlugosc genu: 189
+
+
+69.4
+liczba silnie odpornych: 187
+liczba odpornych: 249
+
